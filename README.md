@@ -22,3 +22,13 @@
 * 🧩 Works seamlessly with existing etcd setups
 * 🛠️ Built with clarity, performance, and extensibility in mind
 
+## 🤝 Contributing
+
+We welcome contributions! Whether you've found a bug, have a feature request, or want to contribute code:
+
+* 🐛 **Report a Bug** → [Open a bug report](https://github.com/etcdfinder/etcdfinder/issues/new?template=bug_report.md)
+* 💡 **Request a Feature** → [Open a feature request](https://github.com/etcdfinder/etcdfinder/issues/new?template=feature_request.md)
+* 👨‍💻 **Development Setup** → See [DEVELOPER.md](DEVELOPER.md) for local development instructions
+
+Feel free to raise an issue for any bugs or feature requests—we're here to help!
+
